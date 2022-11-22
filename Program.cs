@@ -9,7 +9,7 @@ namespace koleksiyonlarSoru1
             ArrayList sayılar=new ArrayList();
             ArrayList asalSayı=new ArrayList();
             ArrayList asalOlmayan=new ArrayList();
-            int n =5;
+            int n =20;
             int sayaç= 0;
             int asalort=0;
             int asalOlmayanOrt=0;
